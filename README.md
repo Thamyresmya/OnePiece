@@ -1,31 +1,29 @@
 
-![](./src/imagens/Capa.jpg)
+![](./src//imagens/Capa.jpg)
 
 
 ## Descrição
 
 <p align="justify">
-Projeto desenvolvido em HTML, CSS e JavaScript de uma Landing Page do One Piece, para apresentar e conhecer todos os personagens. Projeto desenvolvido com os irmãos DEV em DOBRO.
+O projeto One Piece foi desenvolvido em HTML, CSS e JavaScript, uma landing page para apresentar e conhecer todos os personagens. Esse projeto foi desenvolvido junto com os irmãos DEV em DOBRO.
 </p>
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
-
 - ``HTML``
 - ``CSS``
 - ``JavaScript``
 
 
 ## 📁 Acesso ao projeto
-
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Portfolio-Thamyres). 
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/OnePiece). 
 
 Neste repositório você tem acesso a todo os códigos.
 
 
 ## 🛠️ Abrir e rodar o projeto
 
-Para abrir e rodar o projeto, basta clicar nesse [link](https://thamyresmya.github.io/Portfolio-Thamyres/).
+Para abrir e rodar o projeto, basta clicar nesse [link](https://thamyresmya.github.io/OnePiece/).
 
 ## Desenvolvedores
 
